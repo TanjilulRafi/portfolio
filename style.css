@@ -1,0 +1,66 @@
+h2{
+    font-size: 40px;
+    padding-top: 60px;
+}
+h1{
+    font-size: 60px;
+    color: rgb(236, 75, 117);
+}
+p{
+    padding-bottom: 50px;
+}
+.button{
+    text-decoration: none;
+    background-color: rgb(236, 75, 117);
+    color: white;
+    font-weight: 700;
+    padding: 10 20;
+    border-radius: 15px;
+}
+.half{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+}
+img{
+    width: 100%;
+}
+
+.first{
+    height: 650px;
+    background-image: url(header-bg.png);
+}
+.bio{
+    padding-bottom: 30px;
+
+}
+.second{
+    background-image: url(biography-bg.png);
+    height: 750px;
+    margin-bottom: 30px;
+}
+.mid{
+    text-align: center;
+}
+.work{
+    width: 27%;
+    float: left;
+    margin: 3% ;
+}
+.client{
+    text-align: center;
+    margin-top: 500px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.box{
+    background-color: hotpink;
+    border-radius: 25px;
+    vertical-align: middle;
+    padding-top: 30px;
+}
+footer{
+    text-align: center;
+    padding-bottom: 20px;
+}
